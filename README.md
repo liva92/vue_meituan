@@ -51,7 +51,11 @@
 # 四、部分截图
 
 <div>
-  <img src="https://github.com/liva92/vue_waimai/blob/master/gshop-client_final/images/1.png" alt="1" style="zoom:48%;float:left" /><img src="https://github.com/liva92/vue_waimai/blob/master/gshop-client_final/images/2.png" alt="2" style="zoom:50%;float:left" /><img src="https://github.com/liva92/vue_waimai/blob/master/gshop-client_final/images/3.png" alt="3" style="zoom:50%;float:left" /><img src="https://github.com/liva92/vue_waimai/blob/master/gshop-client_final/images/4.png" alt="4" style="zoom:50%;float:left" /><img src="https://github.com/liva92/vue_waimai/blob/master/gshop-client_final/images/5.png" alt="4" style="zoom:50%;float:left" /><img src="https://github.com/liva92/vue_waimai/blob/master/gshop-client_final/images/7.png" alt="7" style="zoom:50%;float:left" /><img src="https://github.com/liva92/vue_waimai/blob/master/gshop-client_final/images/8.png" alt="8" style="zoom:50%;float:left" /><img src="https://github.com/liva92/vue_waimai/blob/master/gshop-client_final/images/9.png" alt="9" style="zoom:50%;float:left"/>
+  <img src="https://github.com/liva92/vue_waimai/blob/master/gshop-client_final/images/1.png" alt="1" style="zoom:48%;float:left" />
+	<img src="https://github.com/liva92/vue_waimai/blob/master/gshop-client_final/images/2.png" alt="2" style="zoom:50%;float:left" /><img src="https://github.com/liva92/vue_waimai/blob/master/gshop-client_final/images/3.png" alt="3" style="zoom:50%;float:left" />
+	<img src="https://github.com/liva92/vue_waimai/blob/master/gshop-client_final/images/4.png" alt="4" style="zoom:50%;float:left" /><img src="https://github.com/liva92/vue_waimai/blob/master/gshop-client_final/images/5.png" alt="4" style="zoom:50%;float:left" />
+	<img src="https://github.com/liva92/vue_waimai/blob/master/gshop-client_final/images/7.png" alt="7" style="zoom:50%;float:left" /><img src="https://github.com/liva92/vue_waimai/blob/master/gshop-client_final/images/8.png" alt="8" style="zoom:50%;float:left" />
+	<img src="https://github.com/liva92/vue_waimai/blob/master/gshop-client_final/images/9.png" alt="9" style="zoom:50%;float:left"/>
 </div>
 
 
